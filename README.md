@@ -1,6 +1,6 @@
 # College Project
 
 Members:
-Abhishek Shinde
-Yug Patel
+Abhishek Shinde,
+Yug Patel,
 Shrey Shah
